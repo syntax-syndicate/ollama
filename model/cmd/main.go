@@ -14,8 +14,7 @@ import (
 	"github.com/ollama/ollama/cache"
 	"github.com/ollama/ollama/ml"
 	"github.com/ollama/ollama/model"
-	_ "github.com/ollama/ollama/model/llama"
-	_ "github.com/ollama/ollama/model/mllama"
+	_ "github.com/ollama/ollama/model/models"
 	"github.com/ollama/ollama/sample"
 )
 
